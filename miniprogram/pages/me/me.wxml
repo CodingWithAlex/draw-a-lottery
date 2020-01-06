@@ -1,0 +1,5 @@
+<!--pages/me/me.wxml-->
+<view class="circle">
+{{number}}
+</view>
+<text class="t1">您的序号为{{number}}，请牢记此序号，作为获奖依据</text>

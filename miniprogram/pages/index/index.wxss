@@ -1,0 +1,19 @@
+/**index.wxss**/
+
+page {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background: url('https://6a6f-jotting-79a100-1258776808.tcb.qcloud.la/Number/39e5399c-f0ee-4a33-89c7-469f2e21f50d_0.jpg?sign=cb5344304bbe5cd90366d216693f349d&t=1573824817');
+  background-size: 100%,100%;
+}
+
+.btn1 {
+  width: 80%;
+  /**margin-top: 1500rpx;**/
+  margin-top: 160%;
+  background-color: rgba(230, 217, 247, 0.2);
+  color: white;
+  border-radius: 98rpx; 
+}
+

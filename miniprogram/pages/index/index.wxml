@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <!-- 获取序号按钮 -->
+  <button class="btn1" open-type="getUserInfo" bindgetuserinfo="getUserInfo">获取序号</button>
+</view>
